@@ -1,1 +1,2 @@
 This folder contains the simulation of TRAPPIST-1 system as well as the 3 body problem involving Jupyter, Ceres and Sun. Both the systems have been simulated using 11th order Adams-Bashforth-Moulton Predictor-Corrector method initiated by 5th order Runge-kutta-Fehlberg method. All the files are fairly commented, making it easy to understand the working(hopefully!)
+The njit folder is nearly identical to the main trappist folder, just a few changes to adjust to the framework of Numba-just in time compiler. This code is atleast 70x faster than the main trappist folder one. 
