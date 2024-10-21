@@ -1,1 +1,1 @@
-
+This folder contains the simulation of TRAPPIST-1 system as well as the 3 body problem involving Jupyter, Ceres and Sun. Both the systems have been simulated using 11th order Adams-Bashforth-Moulton Predictor-Corrector method initiated by 5th order Runge-kutta-Fehlberg method. All the files are fairly commented, making it easy to understand the working(hopefully!)
